@@ -1,0 +1,11 @@
+services:
+  web:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/app             # sync project folder
+      - /app/node_modules  # avoid overwriting node_modules
+    command: npm start
+    stdin_open: true       # 👈 keeps interactive input open
+    tty: true              # 👈 prevents container from exiting
