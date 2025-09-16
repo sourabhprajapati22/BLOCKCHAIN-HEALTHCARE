@@ -54,7 +54,7 @@ A brief overview of the key files in this project:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/sourabhprajapati22/BLOCKCHAIN-HEALTHCARE.git
     cd BLOCKCHAIN-HEALTHCARE
     ```
 
@@ -144,5 +144,6 @@ Patients have ultimate control over their own data.
 
   * **Manage Doctor Access:** Grant or revoke a doctor's permission to view their records.
   * **Set Record Visibility:** Toggle a specific record's visibility between public (viewable by any authorized doctor) and private (viewable only by the patient).
+
 
 ![alt text](public/patient.png)
