@@ -145,6 +145,8 @@ Patients have ultimate control over their own data.
   * **Manage Doctor Access:** Grant or revoke a doctor's permission to view their records.
   * **Set Record Visibility:** Toggle a specific record's visibility between public (viewable by any authorized doctor) and private (viewable only by the patient).
 
-# > A project by Ravi and Sourabh
+
 ![alt text](public/patient.png)
+# > A project by Ravi and Sourabh
+
 
